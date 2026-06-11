@@ -1,0 +1,35 @@
+body{
+    background-image: url(../image/dakigaeri.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+h1{
+    font-family: fantasy;
+    color: aqua;
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+}
+p{
+    color: #ffffff;
+}
+.container{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.a{
+    background-color: darkgray;
+    position: fixed;   
+    bottom: 0;         
+    left: 0;           
+    width: 100%;
+    text-align: center;
+
+}
+
